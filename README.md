@@ -21,7 +21,7 @@ I’m **Hayata Sakata**, a 3rd-year Integrated Design student at Tama Art Univer
 
 ## Projects
 
-* **[portfolio\_chatbot](https://github.com/your-account/portfolio_chatbot)**
+* **[portfolio\_chatbot](https://github.com/sakata325/portfolio_chatbot)**
   
   * An iframe-embedded chatbot on my portfolio site that automatically crawls and updates its knowledge daily using Playwright and GitHub Actions.
 * **Magic Typing Duel**
