@@ -30,7 +30,13 @@ I’m **Hayata Sakata**, a 3rd-year Integrated Design student at Tama Art Univer
 * **Creative AI Tutor PoC**
   
   * An application delivering AI-generated feedback on creative work, streamlining the review process.
-
+* **Neck-Controlled Virtual Flight**
+  
+  * An immersive first-person flight experience in which the user soars through a beautiful sky simply by tilting their head—no hand controllers required—and hears dynamically changing wind sounds that perfectly match each turn.
+    
+* **Unity Wave Interaction/Animation**
+  
+  * A Unity-based interactive/animation system. Users can observe smoothly propagating, organic wave patterns driven by mathematical sine functions and dynamic amplitude envelopes, all rendered on a procedurally generated mesh for high performance.
 
 ## Contact
 
