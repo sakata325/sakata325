@@ -30,7 +30,7 @@ I’m **Hayata Sakata**, a 3rd-year Integrated Design student at Tama Art Univer
 * **Creative AI Tutor PoC**
   
   * An application delivering AI-generated feedback on creative work, streamlining the review process.
-* **Neck-Controlled Virtual Flight**
+* **[BirdFly](https://github.com/sakata325/BirdFly)**
   
   * An immersive first-person flight experience in which the user soars through a beautiful sky simply by tilting their head—no hand controllers required—and hears dynamically changing wind sounds that perfectly match each turn.
     
